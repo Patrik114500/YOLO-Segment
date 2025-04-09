@@ -1,2 +1,1 @@
-[YOLO-Segment
-](YOLO v8 Segment.ipynb)
+[YOLO-Segment](YOLO v8 Segment.ipynb)
